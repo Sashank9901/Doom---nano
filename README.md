@@ -10,8 +10,10 @@ Hardware I used:
 - 5 buttons
 - Buzzer (Optional)
 
-Simplified version (using an Arduino UNO, built-in pull-up resistors for buttons and a buzzer):
-![](/images/input-pull-up-version.jpg?raw=true)
-
-Wiring:
-![](/images/wiring.png?raw=true)
+  wiring:
+  D2 - move forward
+  D3 - move backward
+  D7 - turn left
+  D5 - turn right
+  D6 - Shoot
+  D9 - Buzzer(+)
